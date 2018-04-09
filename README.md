@@ -4,3 +4,5 @@ Python course
 Lab1:https://github.com/rpd54/Python-Deep-learning/wiki/lab1
 
 Lab2:https://github.com/rpd54/Python-Deep-learning/wiki/lab2
+
+Lab3:https://github.com/rpd54/Python-Deep-learning/wiki/lab3
