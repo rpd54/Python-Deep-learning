@@ -1,0 +1,4 @@
+model_checkpoint_path: "/Users/rakeshreddypallepati/PycharmProjects/lab_tf/multi-class-text-classification-cnn-master/trained_model_1524513093/checkpoints/model-600"
+all_model_checkpoint_paths: "/Users/rakeshreddypallepati/PycharmProjects/lab_tf/multi-class-text-classification-cnn-master/trained_model_1524513093/checkpoints/model-200"
+all_model_checkpoint_paths: "/Users/rakeshreddypallepati/PycharmProjects/lab_tf/multi-class-text-classification-cnn-master/trained_model_1524513093/checkpoints/model-400"
+all_model_checkpoint_paths: "/Users/rakeshreddypallepati/PycharmProjects/lab_tf/multi-class-text-classification-cnn-master/trained_model_1524513093/checkpoints/model-600"
